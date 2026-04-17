@@ -1,4 +1,4 @@
-# 🚀 Projeto 2: Automatizando a crianção de EC2 e ECR usando Terraform
+# 🚀 Projeto: Automatizando a crianção de EC2 e ECR usando Terraform
 
 ## 🎯 Visão Geral
 
