@@ -1,0 +1,11 @@
+# .gitignore
+
+# diretório do terraform
+.terraform/
+
+# arquivo de estado (tem dados sensíveis!)
+*.tfstate
+*.tfstate.backup
+
+# variáveis com dados sensíveis
+*.tfvars
